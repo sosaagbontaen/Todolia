@@ -1,4 +1,4 @@
 # Todolia
 
-# Demo
+## Demo
 ![Alt text](demogif.gif)
