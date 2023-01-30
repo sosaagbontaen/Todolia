@@ -1,4 +1,4 @@
-#Todolia
+# Todolia
 
-#Demo
-[Demonstration of Todolia](demo.mp4)
+# Demo
+![Alt text](demogif.gif)
